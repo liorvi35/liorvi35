@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lior Vinman</h1>
-<h3 align="center">A 2-nd B.Sc Computer-Science at Ariel University, specializing in Cyber-Security.</h3>
+<h3 align="center">A 2-nd B.Sc Computer-Science student at Ariel University, specializing in Cyber-Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liorvi35&label=Profile%20views&color=0e75b6&style=flat" alt="liorvi35" /> </p>
 
