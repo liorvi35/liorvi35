@@ -5,8 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/liorvi35?tab=repositories](https://github.com/liorvi35?tab=repositories)
 
-- 💬 Ask me about **Computer-Networking ; Cyber Defence & Attack* ; C, C++, Python, Java Proggraming.*
-
+- 💬 Ask me about **Computer-Networking ; Cyber Defence & Attack* ; C, C++, Python, Java Programming.*
+programming
 - 📫 How to reach me **liorvi35@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uqdIOjTT7au5JAKTU26v6fRmTMHrrBuR/view?usp=sharing](https://drive.google.com/file/d/1uqdIOjTT7au5JAKTU26v6fRmTMHrrBuR/view?usp=sharing)
