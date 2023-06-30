@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liorvi35&label=Profile%20views&color=0e75b6&style=flat" alt="liorvi35" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/liorvi35?tab=repositories](https://github.com/liorvi35?tab=repositories)
+- 👨‍💻 All of my projects are available at: [Repositories](https://github.com/liorvi35?tab=repositories)
 
-- 💬 Ask me about **Computer-Networking ; Cyber Defence & Attack* ; C, C++, Python, Java Programming.*
+- 💬 Ask me about: **Computer-Networking ; Cyber Defence & Attack* ; C, C++, Python, Java Programming.*
 
-- 📫 How to reach me **liorvi35@gmail.com**
+- 📫 How to reach me: **liorvi35@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uqdIOjTT7au5JAKTU26v6fRmTMHrrBuR/view?usp=sharing](https://drive.google.com/file/d/1uqdIOjTT7au5JAKTU26v6fRmTMHrrBuR/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1RJnu84eammfRzWVe8ICIPhpCUXx45C-K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
