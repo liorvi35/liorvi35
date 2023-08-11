@@ -8,7 +8,7 @@
 
   - 👨‍💻 All of my projects are available here, [on my github](https://github.com/liorvi35?tab=repositories).
   - 💬 Ask me about: Computer-Networking, Cybersecurity, Python, C, C++ and Java back-end development.
-  - 📄 Know about my experience and skills by reading my [resume]().
+  - 📄 Know about my experience and skills by reading my [resume](Resume_LiorVinman.pdf).
 
 
 ###
