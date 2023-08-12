@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A 3-rd year  B.Sc Computer-Science student at Ariel University, specializing in Cyber-Security.</h3>
+<h3 align="center">A 2-rd year  B.Sc Computer-Science student at Ariel University, specializing in Cyber-Security.</h3>
 
 ###
 
